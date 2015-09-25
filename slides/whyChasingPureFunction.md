@@ -1,0 +1,1 @@
+# Why Chasing for Pure Functions?

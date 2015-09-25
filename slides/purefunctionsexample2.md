@@ -1,0 +1,2 @@
+
+In functional programming, we dislike unwieldy functions like splice that mutate data. This will never do as we're striving for reliable functions that return the same result every time, not functions that leave a mess in their wake like splice.
